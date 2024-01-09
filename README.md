@@ -2,6 +2,9 @@
 
 Este es el repositorio para el sitio web de Nikao, una tienda para comprar servicios de paginas web. El sitio está desarrollado en HTML, CSS y JavaScript.
 
+## Sitio web demo
+- [Sitio web demo](https://nikaoweb.netlify.app) 
+
 ## Instalación
 
 Para poder visualizar el sitio web, solo necesitas abrir el archivo `index.html` en tu navegador web. Sin embargo, si deseas hacer modificaciones en el sitio, necesitarás descargar los archivos del repositorio a tu computadora utilizando el siguiente comando en la terminal:
